@@ -15,6 +15,36 @@
 		)
 		(uuid "21f6cc1f-ee0a-467b-bdcd-bc2ab2b2713f")
 	)
+	(wire
+		(pts
+			(xy 63.5 91.44) (xy 63.5 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "500ebafa-65fe-4faf-b13a-0bae147aa036")
+	)
+	(wire
+		(pts
+			(xy 101.6 91.44) (xy 63.5 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ee5b9d2-25de-4ab8-b414-e7c6ed3a9605")
+	)
+	(wire
+		(pts
+			(xy 101.6 38.1) (xy 101.6 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f877ca2a-e60f-46ee-b3b1-45475e41e0ce")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
