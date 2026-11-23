@@ -661,17 +661,26 @@
     "top_level_sheets": [
       {
         "filename": "Motor_Drive_PCB.kicad_sch",
-        "name": "Motor_Drive_PCB",
+        "name": "MD_Driver",
         "uuid": "8de01dda-310e-4352-9f9a-6af6c475366f"
+      },
+      {
+        "filename": "motor_drive_pcb_(page_2).kicad_sch",
+        "name": "MD_3Ph_Inv",
+        "uuid": "c8117df3-f289-4352-bd2f-a31dc5485615"
       }
     ],
-    "used_designators": "C1-2,CN8,J1-2,R1,U1-2",
+    "used_designators": "#PWR1-10,C1-5,D1,J1-2,Q1-7,R1-9,U1-2",
     "variants": []
   },
   "sheets": [
     [
       "8de01dda-310e-4352-9f9a-6af6c475366f",
-      "Motor_Drive_PCB"
+      "MD_Driver"
+    ],
+    [
+      "c8117df3-f289-4352-bd2f-a31dc5485615",
+      "MD_3Ph_Inv"
     ]
   ],
   "text_variables": {},
